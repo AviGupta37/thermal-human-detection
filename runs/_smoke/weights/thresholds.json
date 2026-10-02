@@ -1,0 +1,11 @@
+{
+  "best_f1": 0.6,
+  "high_recall": 0.65,
+  "target_recall": 0.95,
+  "imgsz": 640,
+  "f1": 0.9917355371900827,
+  "precision": 0.9836065573770492,
+  "recall": 1.0,
+  "map50": 0.995,
+  "split": "test"
+}
